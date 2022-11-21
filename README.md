@@ -12,3 +12,5 @@ The functionality of the program:
 3. Multithreaded calculation of the sum of array elements.
 
 <a href="https://github.com/netology-code/jd-homeworks/tree/master/multithreading/task3">(RUS version of description)</a>
+### Result
+![image](https://user-images.githubusercontent.com/63547457/203171643-87b05619-860b-4c9d-bf76-387060bea8ce.png)
